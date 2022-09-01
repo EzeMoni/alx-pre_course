@@ -1,2 +1,2 @@
 My first readme
-This is my time. I can win
+How to be up to date with git
